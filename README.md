@@ -9,4 +9,5 @@ Currently, the system relies on conditional statements within the Account class 
 
 
 # UML Class Diagram
-![UML Diagram - Letran](https://github.com/LanceLetran/StateDesignPattern/assets/142746735/49281d4b-f5ae-4041-8fc2-764da204f967)
+![UML Diagram - Letran](https://github.com/LanceLetran/StateDesignPattern/assets/142746735/998fd5d6-e20c-4dbd-b13c-5d7244900f1c)
+
